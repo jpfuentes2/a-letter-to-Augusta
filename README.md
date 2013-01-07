@@ -1,4 +1,4 @@
-# The Poem
+# The Letter
 
 ```ruby
 require "./love"
@@ -9,8 +9,7 @@ a_letter to: Augusta do
   We::Wish.we_could { experience these_moments: over & over }
   You.will always_be: Loved, and: Cherished
   until Infinity.ends do; Forever.(); end
-end
-```
+end```
 
 # Why
 
@@ -18,7 +17,7 @@ I wanted to creatively express my affection for my daughter, Augusta, in a way I
 
 # Usage
 
-`ruby poem.rb`
+`ruby letter.rb`
 
 Be sure to read the code in `love.rb`
 
