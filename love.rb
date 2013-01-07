@@ -25,7 +25,7 @@ class You
   end
 end
 
-class TheUniverse < Infinity.class
+class The::Universe < Infinity.class
   def self.<<(you); end
 end
 
