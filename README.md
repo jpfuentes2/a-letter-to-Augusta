@@ -14,13 +14,13 @@ end
 
 # Why
 
-I wanted to creatively express my affection for my daughter, Augusta, in a way I know best. I chose Ruby for its flexibility and elegance. My hope is to introduce her to its boundless beauty someday using this composition.
+I wanted to creatively express my affection for my daughter, Augusta, in a way I know best. I chose Ruby for its flexibility and elegance. My hope is to introduce her to its boundless beauty someday soon using this composition.
+
+This is a real, working, program which outputs `Augusta, we <3 you!` when executed. Be sure to read the [love.rb](https://github.com/jpfuentes2/a-letter-to-Augusta/blob/master/love.rb) file which supports the letter’s syntax. I tried to keep it symmetrical and legible so that the source closely resembles the content.
 
 # Usage
 
 `ruby letter.rb`
-
-Be sure to read the code in `love.rb`
 
 # Inspiration
 
