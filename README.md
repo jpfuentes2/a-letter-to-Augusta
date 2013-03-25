@@ -1,16 +1,10 @@
 # The Letter
 
-```ruby
-require "./love"
+![The Letter](http://media.tumblr.com/c316fd81f261ce30d20e1ab3c750f6b5/tumblr_inline_mg9ptrCXQh1rdwud0.png)
 
-a_letter to: Augusta do
-  twas(only: 16.months.ago) { The::Universe << You.to(OurFamily) }
-  life.has :been => %w(i n c r e d i b l y).zip(*"wonderful!").ever_since
-  We::Wish.we_could { experience these_moments: over & over }
-  You.will always_be: Loved, and: Cherished
-  until Infinity.ends do; Forever.(); end
-end
-```
+# The Love
+
+![The Love](http://f.cl.ly/items/2B1k0I171d1F363e3S3a/Screen%20Shot%202013-03-25%20at%2011.22.42%20AM.png)
 
 # Why
 
